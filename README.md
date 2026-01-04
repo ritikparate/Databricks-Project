@@ -17,6 +17,17 @@ Mastered Databricks cluster management and Apache Spark for distributed computin
 - Performance optimization and best practices
 - Real-world schema design patterns
 
+## Bronze Ingestion Job Screenshot
+<img width="1566" height="554" alt="Bronze Ingestion" src="https://github.com/user-attachments/assets/5d3f0591-2617-4999-aeb7-4191053f9a55" />
+
+## Silver Transformation with Idempotency
+
+| Initial Run | Second run Proving Idempotency |
+|---|---|
+| <img width="1575" height="836" alt="Silver Pipeline" src="https://github.com/user-attachments/assets/6372ecb7-e767-455a-ba9a-9c8f5735c174" /> | <img width="1598" height="832" alt="Silver 2nd run" src="https://github.com/user-attachments/assets/ca0d5595-ec85-4f12-a06a-2eb01c27777a" /> |
+
+
+
 ## Key Features
 
 ### Data Transformations
